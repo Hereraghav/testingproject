@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#progress {
+    margin: 50px 0;
+    text-align: center;
+    font-size: 1.8em;
+    color: rgb(225, 188, 188);
+}
+
+table {
+    width: 100%;
+    margin-top: 30px;
+}
